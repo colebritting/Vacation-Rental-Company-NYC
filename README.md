@@ -1,7 +1,7 @@
 # Vacation-Rental-Company-NYC
 A vacation rental company based out of NYC is looking to get some information on the market using data from Airbnbs that are currently operating. They want to know answer a few questions to decide where to purchase properties:
 
-**  What neighborhoods command the highest premium and best reviews? 
+**  What neighborhoods command the highest premium and best reviews? **
 
   How much of a difference in price or review score is there based on the amount of bedrooms? 
 
