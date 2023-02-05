@@ -14,6 +14,7 @@ How important is your profile? Being a superhost, being verified, being on the p
 How important are the amount of reviews you have?
 
 
+
 In order to answer these questions I first reformat the data and then explore it to give the company some answers.
 
 Data: http://insideairbnb.com/get-the-data
